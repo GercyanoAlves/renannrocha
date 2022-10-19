@@ -23,7 +23,7 @@
   <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/730631254600581151/1032313049681494048/img2.jpg?width=676&height=676">
 </div>
 
-## minhas redes 🌎
+## minhas redes
 
 <div> 
   <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
