@@ -1,4 +1,4 @@
-## Olá! meu nome é Marcio Renan 👋
+## Olá! sou Marcio Renan 👋
 
 <div align="center">
 <a href="https://github.com/therenan8897">
