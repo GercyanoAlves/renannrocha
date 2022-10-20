@@ -1,4 +1,4 @@
-## <div align="center">Olá! sou Marcio Renan 👋</div>
+## <div align="center">Olá! sou Márcio Renan 👋</div>
 
 <div align="center"> 
   <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://github.com/therenan8897">
-<img height="212em" src="https://github-readme-stats.vercel.app/api?username=therenan8897&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="211em" src="https://github-readme-stats.vercel.app/api?username=therenan8897&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
