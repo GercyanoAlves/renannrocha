@@ -50,6 +50,6 @@
 <div align="center"> 
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/therenan8897/therenan8897/blob/output/github-contribution-grid-snake.svg)
  
 </div>
