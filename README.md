@@ -1,4 +1,4 @@
-<div align="center"><h2>Olá! sou Márcio Renan 👋<h2></div>
+## <div align="center">Olá! sou Márcio Renan 👋</div>
 
 <div align="center"> 
   <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
