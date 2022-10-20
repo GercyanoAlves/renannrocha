@@ -1,4 +1,4 @@
-## Olá! sou Renan Rocha👋<img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/730631254600581151/1032313049681494048/img2.jpg?width=676&height=676">
+## Olá! sou Renan Rocha👋
 
 <div> 
   <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,19 +8,12 @@
 
 <div>
 <a href="https://github.com/therenan8897">
-<img height="211em" src="https://github-readme-stats.vercel.app/api?username=therenan8897&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-##
-
-<br>
-<div>
-  <a href="https://github.com/therenan8897">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenan8897&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=therenan8897&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenan8897&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
-##
+## 
 
 - <h4>Habilidades<h4>
 
