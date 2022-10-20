@@ -31,7 +31,7 @@
   <img align="center" alt="Renan-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/730631254600581151/1032313049681494048/img2.jpg?width=676&height=676">
 </div>
 
 ##
