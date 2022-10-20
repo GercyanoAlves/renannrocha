@@ -12,9 +12,6 @@
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenan8897&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-## 
-
 - <h4>Habilidades<h4>
 
 <div style="display: inline_block"><br>
