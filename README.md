@@ -1,4 +1,4 @@
-## <div align="center">Olá! sou Márcio Renan 👋</div>
+## <div align="center"><h2>Olá! sou Márcio Renan 👋<h2></div>
 
 <div align="center"> 
   <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
 
 ##
 
-- Habilidades
+- <h4>Habilidades<h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +36,7 @@
 
 ##
 
-- Ferramentas do meu dia a dia 
+- <h4>Ferramentas do meu dia a dia<h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-vsc" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
