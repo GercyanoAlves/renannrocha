@@ -11,9 +11,9 @@
  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenan8897&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+## <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
 
-- <h4>Skills<h4>
+- <h4>Skills<h4> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +24,7 @@
   <img align="center" alt="Renan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
+## 
 
 - <h4>my everyday tools<h4>
 
