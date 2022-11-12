@@ -13,7 +13,7 @@
   <div align="center">
  <div style="display: inline_block"><br>
   <img  align="left" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=renannrocha&theme=dark" alt="renannrocha">
-  <h3 align="center">O que eu estou desenvolvendo</h3><br>
+  <h3 align="center">What am i developing</h3><br>
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
