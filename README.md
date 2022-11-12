@@ -11,11 +11,7 @@
  <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api?username=therenan8897&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therenan8897&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-## 
-
-- <h4>Skills<h4>
-
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
