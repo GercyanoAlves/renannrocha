@@ -23,7 +23,7 @@
   <img align="center" alt="Renan-Csharp" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## <p><img align="center" height="200" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=renannrocha&theme=dark" alt="renannrocha" /></p>
+## <p><img align="center" height="180" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=renannrocha&theme=dark" alt="renannrocha" /></p>
 
 <div align="center"> 
   
