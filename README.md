@@ -25,7 +25,7 @@
   <img align="center" alt="Renan-Csharp" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Renan-Az" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
-</div><br><br>
+</div><br>
  
 ##
   
