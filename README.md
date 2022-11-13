@@ -1,9 +1,11 @@
- ### <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="110" alt="octocat.gif"><div>
-<h2 align="left">Hello, Word! 🫡 <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:renanrocha8897@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/m%C3%A1rcio-renan-271a09249/" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><h2>
-</div><br>
+ ### ㅤ<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="130" alt="octocat.gif">
 
-
-
+<div style="display: inline_block">
+<h2 align="left">Hello, Word!👨🏻‍💻ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <a href="https://www.instagram.com/mrenan_r/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:renanrocha8897@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/m%C3%A1rcio-renan-271a09249/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><h2>
+</div>
+ 
+### ㅤ
+ 
 <div>
  <a href="https://github.com/renannrocha">
  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=renannrocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
